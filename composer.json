@@ -1,5 +1,5 @@
 {
-    "name": "didww/php-sdk",
+    "name": "gapaus/php-sdk",
     "description": "DIDWW API 2 PHP SDK",
     "minimum-stability": "dev",
     "authors": [
